@@ -66,7 +66,7 @@
       </div></header>
     <section class="u-clearfix u-section-1" id="sec-58c8">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
+        <div class="u-clearfix u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xl u-gutter-0 u-layout-wrap u-layout-wrap-1">
           <div class="u-layout" style="">
             <div class="u-layout-row" style="">
               <div class="u-container-style u-layout-cell u-left-cell u-size-29-lg u-size-29-xl u-size-60-md u-size-60-sm u-size-60-xs u-size-xs-60 u-white u-layout-cell-1" src="">
@@ -120,7 +120,7 @@ you no matter what.
     </section>
     <section class="u-clearfix u-section-3" id="sec-0ee1">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <img class="u-absolute-hcenter u-expanded-height u-image u-image-default u-image-1" src="images/12-8.png" alt="" data-image-width="1014" data-image-height="875" data-href="https://bit.ly/3bm4HCx">
+        <img class="u-absolute-hcenter u-expanded-height u-image u-image-default u-image-1" src="images/12.png" alt="" data-image-width="1014" data-image-height="875" data-href="https://bit.ly/3bm4HCx">
       </div>
     </section>
     <section class="u-align-center u-clearfix u-custom-color-1 u-section-4" id="carousel_d25c">
@@ -178,7 +178,7 @@ how my weight affects those around me. Thank you!"
     </section>
     <section class="u-clearfix u-section-7" id="carousel_7aa3">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <img class="u-image u-image-default u-image-1" src="images/12.png" alt="" data-image-width="1014" data-image-height="875" data-href="https://bit.ly/3bm4HCx">
+        <img class="u-image u-image-default u-image-1" src="images/12-3.png" alt="" data-image-width="1014" data-image-height="875" data-href="https://bit.ly/3bm4HCx">
       </div>
     </section>
     
